@@ -6,7 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+<!---Building TimeBanker ⏳ | Focus-to-Earn on TON
+$TIMEŒ OMNIA – The metaverse where time is your greatest asset
+Tempus Omnia Revelat
+Telegram Mini App: https://t.me/TIMEŒBot/app
+
 randyidaeho/randyidaeho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
